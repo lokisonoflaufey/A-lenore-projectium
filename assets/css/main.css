@@ -91,7 +91,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #7f888f;
+  color: #889ba9;
   font-family: 'Joan', serif;
   font-size: 13pt;
   font-weight: 400;
@@ -990,7 +990,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  font-family: "Roboto Slab", serif;
+  font-family: 'Joan', serif;
   font-size: 1em;
   font-weight: 400;
   letter-spacing: 0.075em;
